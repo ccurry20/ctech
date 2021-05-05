@@ -1,10 +1,11 @@
 <h1 align="center">
-    <a href="https://production-lambda-synaps-fe.herokuapp.com/">C TECH</a>
+      <img align="center" alt="PIC" width="500px" src="https://github.com/ccurry20/ctech/blob/master/Copy%20of%20Minimal%20Design%20Studio%20Web%20Logo%20-%20Made%20with%20PosterMyWall.png?raw=true" />
 </h1>
 
 
+
 <h3 align="center">Need a Website? </h3>
-<h3 align="center">C TECH </h3>
+
 
 
 
