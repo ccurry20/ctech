@@ -4,7 +4,7 @@
 
 
 <h3 align="center">Need a Website? </h3>
-<h3 align="center">C TECH /h3>
+<h3 align="center">C TECH </h3>
 
 
 
