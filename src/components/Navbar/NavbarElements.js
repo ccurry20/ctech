@@ -89,7 +89,7 @@ export const NavLinks = styled(LinkS)`
 export const NavBtn = styled.nav`
 
     
-    display:flex; 
+    display: flex; 
     align-items: center; 
 
     @media screen and (max-width: 768px) {
